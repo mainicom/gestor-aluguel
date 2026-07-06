@@ -1,0 +1,1 @@
+na pasta bundle tem as bibliotecas e o executavel do gestor o server ta no htdocs e dae é so importar o arquivo.db pro php my admyn (se o senhor quiser ver ou dar uma alterada nos codigos do flutter eles tão na pasta getao_alugel)
